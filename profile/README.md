@@ -17,4 +17,4 @@ https://github.com/sponsors/nashaofu
 
 ### Projects
 
-* [shell360](https://github.com/shell360/release)
+* [shell360-release](https://github.com/shell360/release)
